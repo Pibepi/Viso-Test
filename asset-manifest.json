@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Viso-Test/static/css/main.d5289b2f.css",
+    "main.js": "/Viso-Test/static/js/main.030ae79d.js",
+    "index.html": "/Viso-Test/index.html",
+    "main.d5289b2f.css.map": "/Viso-Test/static/css/main.d5289b2f.css.map",
+    "main.030ae79d.js.map": "/Viso-Test/static/js/main.030ae79d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5289b2f.css",
+    "static/js/main.030ae79d.js"
+  ]
+}
