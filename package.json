@@ -2,7 +2,7 @@
   "name": "my-practic",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Fedkiv-Oleh.github.io/Viso-Test",
+  "homepage": "https://Pibepi.github.io/Viso-Test",
   "dependencies": {
     "@googlemaps/markerclusterer": "^2.5.3",
     "@react-google-maps/api": "^2.19.3",
